@@ -1,0 +1,26 @@
+{
+    "name": "Tailwind-CSS-Hecks-Studios-Fake-Page",
+    "version": "1.0.0",
+    "description": "Using the Tailwind Youtube series to create a fake Ecommerce page.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wigsters52/Tailwind-CSS-Hecks-Studios-Fake-Page.git"
+    },
+    "keywords": [],
+    "author": "Ryan Wiggins",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wigsters52/Tailwind-CSS-Hecks-Studios-Fake-Page/issues"
+    },
+    "homepage": "https://github.com/wigsters52/Tailwind-CSS-Hecks-Studios-Fake-Page#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.2.4",
+        "postcss": "^8.2.6",
+        "tailwindcss": "^2.0.3",
+        "vite": "^2.0.1"
+    }
+}
